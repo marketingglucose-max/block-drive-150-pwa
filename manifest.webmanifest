@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "BLOCK DRIVE 150 — 3D ойын",
+  "short_name": "BLOCK DRIVE",
+  "description": "150 деңгейі бар 3D көлік ойыны. Офлайн ойнауға арналған.",
+  "lang": "kk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#5dd0fa",
+  "theme_color": "#5dd0fa",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
